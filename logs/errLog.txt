@@ -1,0 +1,104 @@
+20250528	11:58:22	3d9fe173-7f9b-477f-a7ed-1e3013b3290c	Error: Not allowed by CORS
+20250528	12:41:38	312de33d-dcca-4709-9224-f4bd4b8d40c1	Error: ENOENT: no such file or directory, stat '/Users/bacancy/Downloads/nodejs_web_server-main/routes/views/index.html'
+20250528	12:41:39	49074866-e918-4d60-8b38-7aa96832f062	Error: ENOENT: no such file or directory, stat '/Users/bacancy/Downloads/nodejs_web_server-main/routes/views/index.html'
+20250528	12:41:41	34c94cd4-a6b5-4db0-b7ea-95cab8e609ea	Error: ENOENT: no such file or directory, stat '/Users/bacancy/Downloads/nodejs_web_server-main/routes/views/index.html'
+20250530	14:24:16	3b795979-d303-4ce4-b3c3-b111f20043c8	Error: Cannot set headers after they are sent to the client
+20250602	10:15:59	8dfa93c2-28d0-4adc-889e-7cb3dc1a78ea	TokenExpiredError: jwt expired
+20250602	10:19:48	5a807a51-2d0f-432f-8965-cc9b5fc9b6d8	TokenExpiredError: jwt expired
+20250602	10:20:09	b09512e4-66fd-4e2c-95fa-3e43448f07b1	TokenExpiredError: jwt expired
+20250602	10:44:11	488744cc-31fd-4f8c-8ce1-5ca63413050a	TokenExpiredError: jwt expired
+20250602	11:35:54	890ed666-b950-405d-96b3-20f31550f9c1	TypeError: Cannot convert undefined or null to object
+20250602	11:35:55	1bf832d4-70d9-483b-a949-28b1ff4e789d	TypeError: Cannot convert undefined or null to object
+20250602	11:35:56	3d7c7a7d-ee4a-4163-9872-9df4d61b22cf	TypeError: Cannot convert undefined or null to object
+20250602	11:36:48	34d7a9d4-083e-4ef4-8f87-2302127eecfd	TypeError: Cannot convert undefined or null to object
+20250602	11:36:49	91b00356-40df-4af6-9fa4-6fab24fa5c45	TypeError: Cannot convert undefined or null to object
+20250602	11:37:03	71a9e73e-5596-4c18-8a27-f8fe5f21f0eb	TypeError: Cannot convert undefined or null to object
+20250602	11:50:15	677dfc7a-81f6-4a97-9346-4ebbc8102651	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	11:50:57	3794ba26-e755-4658-8821-da23f9afb526	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	11:51:48	166880c1-90bd-4054-99b6-cc323f0d9fcf	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	11:53:30	00c16535-951a-4ed2-a850-a9ceabba20a9	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	11:53:51	a8c79d7c-ae08-47cf-b13c-55344179763a	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	11:54:39	b82b5e9b-f0c6-4073-a7c4-a3a19cf70e5a	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	11:56:46	676f3354-c2ca-44a2-aa53-b0dc6afb6096	TypeError: res.statusStatus is not a function
+20250602	11:56:47	412703dd-61cf-46b4-9713-dab41d2b3a49	TypeError: res.statusStatus is not a function
+20250602	11:56:48	2fc42002-f50a-4a0b-9a74-e8e27401eeef	TypeError: res.statusStatus is not a function
+20250602	11:58:51	21320741-6e83-4713-84ef-04228eba0e4a	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	11:59:00	a9860946-a9cd-4cb9-994d-efb72539c5ca	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	11:59:12	e3d90630-71a0-4726-95a9-61b527597d54	TypeError: res.statusStatus is not a function
+20250602	11:59:12	384d1863-d90f-487a-9d79-5ced5059c31c	TypeError: res.statusStatus is not a function
+20250602	11:59:13	feb206fa-0931-4d47-be30-5d8a83662fb0	TypeError: res.statusStatus is not a function
+20250602	11:59:13	fcb0a773-1261-4aca-ac74-67510b8f964b	TypeError: res.statusStatus is not a function
+20250602	11:59:14	7d5163d8-2799-4b34-96ee-5527603e9c59	TypeError: res.statusStatus is not a function
+20250602	11:59:14	fad58e2b-8195-4e25-9093-0b4f144e5294	TypeError: res.statusStatus is not a function
+20250602	11:59:14	9d832543-7afc-418e-a0e1-e23573017664	TypeError: res.statusStatus is not a function
+20250602	11:59:15	06a142f7-e479-48c1-81fa-4175a1b0c412	TypeError: res.statusStatus is not a function
+20250602	11:59:28	18ddfd1f-a6ef-4a31-8e98-282eef42038e	TypeError: res.statusStatus is not a function
+20250602	11:59:28	67fdf813-6fe9-4120-941f-79fb55827413	TypeError: res.statusStatus is not a function
+20250602	12:00:02	1bbed3ea-53d8-4864-b543-407d2301f103	TypeError: res.statusStatus is not a function
+20250602	12:00:03	4520dcfa-004c-415d-abfa-5e1946d911a6	TypeError: res.statusStatus is not a function
+20250602	12:00:37	494f4e1c-5e6f-49d3-8d68-c489137e37e5	TypeError: res.statusStatus is not a function
+20250602	12:00:37	ae4d3c98-1518-4da3-82fc-116aacc470e7	TypeError: res.statusStatus is not a function
+20250602	12:00:38	9bde0971-748c-4316-a9b3-ab3879968d09	TypeError: res.statusStatus is not a function
+20250602	12:00:38	8bc1e028-9ab9-4f46-a988-962100ead29b	TypeError: res.statusStatus is not a function
+20250602	12:00:38	101ecd1c-d70c-4cb7-81aa-8e0eed39aef6	TypeError: res.statusStatus is not a function
+20250602	12:00:38	07889457-d7b3-42f4-aa0e-d62c55e8ac1e	TypeError: res.statusStatus is not a function
+20250602	12:00:39	e63626f9-607b-4a84-bd6b-5e0bc3b616f9	TypeError: res.statusStatus is not a function
+20250602	12:01:46	019ce615-36ec-4caa-b1ce-d90f2f8ca06f	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	12:03:08	5c4651a2-9286-4b80-8383-e21089815cc0	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	12:04:27	a11cd4a5-31e4-4aab-b4b3-6883fd1e3e50	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	12:35:13	97d7928a-936a-4f49-8808-173ca8620d4b	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250602	12:35:43	a73bcddb-47f1-4090-ba1d-16020648a055	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20250603	12:46:14	bc26748d-53d4-45f8-bd0e-c9d7a8cb3ad4	Error: Cannot set headers after they are sent to the client
+20250603	12:49:56	e65d5f1e-59f3-4178-bff0-1ab202c7e03e	Error: Cannot set headers after they are sent to the client
+20250603	12:54:50	f00364e4-2ae7-4d71-9313-c9694cb14f9d	Error: Cannot set headers after they are sent to the client
+20250603	13:44:49	6cba8f5f-52f7-4a99-99d3-3b59b99a4d46	Error: Cannot set headers after they are sent to the client
+20250603	13:45:26	e7989958-0231-43bd-aba5-dd92077530f5	Error: data and hash arguments required
+20250603	13:45:45	16fb0a66-0cb0-4e55-8955-63c48234c82d	Error: data and hash arguments required
+20250603	13:46:43	304f12d3-cbff-4cc4-95b2-aecf4be7eef6	Error: data and hash arguments required
+20250603	13:53:18	a70f2422-f77c-4fc3-97b8-e47f82146e6d	TypeError: res.statusStatus is not a function
+20250603	13:53:19	48202c7a-bc3f-4805-9def-63dc34e10344	TypeError: res.statusStatus is not a function
+20250603	13:53:37	734aa413-a747-46c4-a806-fbcd122769eb	TypeError: res.statusStatus is not a function
+20250603	13:53:38	8122ee28-de4f-4daa-a6e1-aa3c14136abf	TypeError: res.statusStatus is not a function
+20250603	13:53:39	f7bb17c0-5042-40c8-bf44-3655cbb9fc20	TypeError: res.statusStatus is not a function
+20250603	13:53:40	e1ae7b32-6aac-453a-8deb-c434cb0b09fc	TypeError: res.statusStatus is not a function
+20250603	13:53:51	b2d27824-1fab-4d5f-b81d-3a328d3f9fb4	TypeError: res.statusStatus is not a function
+20250603	13:53:51	ed717787-5167-4950-b58b-aed733653b54	TypeError: res.statusStatus is not a function
+20250603	13:53:53	54634fc0-4b1a-4292-901d-25ff53f96e9a	TypeError: res.statusStatus is not a function
+20250603	13:53:54	ad8cf4e1-a6d9-4f22-a325-1a1324cc32b8	TypeError: res.statusStatus is not a function
+20250603	13:54:33	395e8649-027b-4c29-919d-11548069bee4	TypeError: res.statusStatus is not a function
+20250603	13:54:34	f332e30c-d242-4053-9e88-2cb5293618fa	TypeError: res.statusStatus is not a function
+20250603	13:54:35	e88ff730-f4b4-41bd-8252-7e395b0bf90b	TypeError: res.statusStatus is not a function
+20250603	13:54:36	c76e89e4-c2d7-4355-aa03-7746088cf14a	TypeError: res.statusStatus is not a function
+20250603	13:54:37	1f299793-a9ec-4661-b49f-5a6281027330	TypeError: res.statusStatus is not a function
+20250603	13:55:27	e76fa0e7-0cae-42d8-91ce-4d73f389cec7	TypeError: res.statusStatus is not a function
+20250603	13:55:29	6a25daa8-d64e-4609-ae0c-2d535bdf63e0	TypeError: res.statusStatus is not a function
+20250603	13:55:29	f0b6ec05-b41c-411e-a47b-517fdf5e121b	TypeError: res.statusStatus is not a function
+20250603	13:55:30	2bda9ffe-6f8a-481f-ba06-244d0517996e	TypeError: res.statusStatus is not a function
+20250603	13:55:30	fa54928a-72a7-42a4-bfba-763c51313f22	TypeError: res.statusStatus is not a function
+20250603	13:55:30	5fe1c142-f848-4925-9b45-6c5a45f3abcd	TypeError: res.statusStatus is not a function
+20250603	13:55:31	78ed3994-0277-4b4a-adc7-29b52da9b3ca	TypeError: res.statusStatus is not a function
+20250603	13:55:31	02eb9f60-1ddd-4198-8f13-84ef5e2c8544	TypeError: res.statusStatus is not a function
+20250603	13:55:40	cbf4f0c8-72c4-4911-a3b3-dac652a28037	TypeError: res.statusStatus is not a function
+20250603	13:57:40	27f708a8-994b-4757-8d19-745373e61e41	TypeError: res.statusStatus is not a function
+20250603	13:57:40	93823cc4-aeb9-4d03-8906-07961339a7be	TypeError: res.statusStatus is not a function
+20250603	13:57:41	16da82ae-5839-451b-b0f8-f027f7b7d7ad	TypeError: res.statusStatus is not a function
+20250603	13:57:41	5b0c4bc5-62d2-482a-85f0-15d7be372435	TypeError: res.statusStatus is not a function
+20250603	13:57:42	0f4ab745-3d8a-4ecc-9370-c82203984dc4	TypeError: res.statusStatus is not a function
+20250603	13:58:10	95c24750-d648-48a5-82e1-da1a6e49918f	TypeError: res.statusStatus is not a function
+20250603	13:58:11	97431931-6c3f-44bc-8f9b-31b0ea13aaf8	TypeError: res.statusStatus is not a function
+20250603	14:01:02	cc28d761-ee26-4afd-903e-d4e239ce8904	TypeError: callback is not a function
+20250603	14:01:04	81926b0f-2713-4d5c-9ae7-f5d5199afa57	TypeError: callback is not a function
+20250603	14:01:51	3bf8aa99-1cf9-42fa-a9d2-994162f8f03b	TypeError: callback is not a function
+20250603	14:02:02	43a66564-8b81-4708-8e77-ce7d9d0bdbe1	TypeError: callback is not a function
+20250603	14:02:03	78e341d3-3e0d-470d-87d4-e6b2c202ce89	TypeError: callback is not a function
+20250603	14:02:03	8b7a8bea-63d6-4a5d-8aa1-1158700f5336	TypeError: callback is not a function
+20250603	14:02:04	d30a5210-afe9-4d49-8850-b9b911f5cef3	TypeError: callback is not a function
+20250603	14:02:04	7cc4033a-d733-4313-8e90-f3565c69c97c	TypeError: callback is not a function
+20250603	14:02:04	c0d2f73e-bd8b-4e0c-9f7f-0536f6544f4d	TypeError: callback is not a function
+20250603	14:02:30	7c02fa14-8f10-48d9-949c-f0d0f6005922	TypeError: callback is not a function
+20250603	14:02:33	22b599d2-72ae-460f-aab3-a7304b0a4c49	TypeError: callback is not a function
+20250603	14:03:39	c0540084-6a33-46eb-927f-a2b9d7805498	TypeError: callback is not a function
+20250603	14:04:07	67d2a24f-1ec8-4b68-a121-30b1f181abeb	TypeError: callback is not a function
+20250603	14:04:08	8e50446b-4bb4-446b-ba2f-656410b0217e	TypeError: callback is not a function
+20250603	14:04:11	87656264-5221-4fa5-b02a-5d9f893dc039	TypeError: callback is not a function
+20250603	14:04:38	869b533d-fedd-43f0-8aa7-c79fc56879a2	TypeError: callback is not a function

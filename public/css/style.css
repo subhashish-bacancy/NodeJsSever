@@ -1,0 +1,20 @@
+/* Reset and global box model */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-size: 36px;
+  min-height: 100vh;
+  color: #ffffff;
+  background-color: #000000;
+  display: grid;
+  place-content: center;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
